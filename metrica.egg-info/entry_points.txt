@@ -1,0 +1,2 @@
+[console_scripts]
+metrica-cli = metrica.cli:main

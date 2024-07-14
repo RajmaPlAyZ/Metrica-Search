@@ -1,0 +1,7 @@
+setup.py
+metrica.egg-info/PKG-INFO
+metrica.egg-info/SOURCES.txt
+metrica.egg-info/dependency_links.txt
+metrica.egg-info/entry_points.txt
+metrica.egg-info/requires.txt
+metrica.egg-info/top_level.txt

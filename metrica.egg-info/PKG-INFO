@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: metrica
+Version: 1.0
+Summary: A Trie-based Extended search algorithm library
+Home-page: https://github.com/RajmaPlAyZ
+Author: Aryan Kaul
+Author-email: aryankaul178@gmail.com
+License: MIT
+Keywords: search data structure
+Requires-Dist: csv
+Requires-Dist: trie
